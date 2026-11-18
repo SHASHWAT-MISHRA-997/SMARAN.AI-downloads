@@ -1,6 +1,6 @@
 <div align="center">
 
-# SMARAN.AI — Official Downloads (`v1.1.81`)
+# SMARAN.AI — Official Downloads (`v1.1.82`)
 
 **Your Free, Private, Local-First AI Assistant for Windows, Android, Linux & VS Code**
 
@@ -10,19 +10,21 @@
 
 ---
 
-## Download `v1.1.81`
+## Download `v1.1.82`
 
 | Platform | Download | Notes |
 | --- | --- | --- |
 | **Windows 10 & 11 (64-bit)** | [**Get from Microsoft Store**](https://apps.microsoft.com/detail/9P5GW587VP6G) · [`SMARAN.AI-Setup.exe`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/SMARAN.AI-Setup.exe) | The Microsoft Store copy is signed by Microsoft (passes SmartScreen & Smart App Control) and updates itself automatically. |
 | **Android 7.0+** | [`SMARAN-AI.apk` (Official Play-signed)](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/SMARAN-AI.apk) | Works standalone (even without an account or API key, or with your own Gemini/Groq/OpenRouter key) and pairs with your PC over Wi-Fi. |
-| **Linux x86-64 (glibc 2.28+)** | [`SMARAN.AI-x86_64.AppImage`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/SMARAN.AI-x86_64.AppImage) · [`.deb`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-ai_amd64.deb) · [`.rpm`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-ai.x86_64.rpm) · [`.tar.gz`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-ai-linux-x86_64.tar.gz) | Ubuntu 20.04+, Debian 10+, Fedora 29+, RHEL/Rocky/Alma 8+, Linux Mint 20+ (`v1.1.81`). |
+| **Linux x86-64 (glibc 2.28+)** | [`SMARAN.AI-x86_64.AppImage`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/SMARAN.AI-x86_64.AppImage) · [`.deb`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-ai_amd64.deb) · [`.rpm`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-ai.x86_64.rpm) · [`.tar.gz`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-ai-linux-x86_64.tar.gz) · [`.snap`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-ai_1.1.82_amd64.snap) | Ubuntu 20.04+, Debian 10+, Fedora 29+, RHEL/Rocky/Alma 8+, Linux Mint 20+ (`v1.1.82`). |
 | **VS Code Extension** | [**SMARAN.AI Codex (`v2.31.0`)**](https://marketplace.visualstudio.com/items?itemName=ShashwatMishra.smaran-ai-codex) | Autonomous coding agent in VS Code with a built-in Browser tab for testing local web apps. |
-| **Command Line (`smaran`)** | [`smaran-windows-x86_64.exe`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-windows-x86_64.exe) · [`smaran-linux-x86_64`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-linux-x86_64) | Single-file terminal client that talks to the running desktop app over `127.0.0.1`. |
+| **Command Line (`smaran`)** | [`smaran.exe`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran.exe) / [`smaran-windows-x86_64.exe`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-windows-x86_64.exe) · [`smaran-linux-x86_64`](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/latest/download/smaran-linux-x86_64) | Single-file terminal client that talks to the running desktop app over `127.0.0.1`. |
 
 ---
 
-## What's New & Core Capabilities (`v1.1.81`)
+## What's New & Core Capabilities (`v1.1.82`)
+
+- **All Agents & Studio UI/UX Overhaul**: Rebuilt **All Agents** as a clean directory with zero sidebar duplicates, plus dedicated interactive workbenches — **Office Document Exporter Workbench** with live 16:9 PowerPoint (`.pptx`), Excel (`.xlsx`) grid, and A4 Word (`.docx`) previews + sample templates; **Dashboards & CRM** KPI strip with **Pipeline Kanban**, **All Deals Table**, and **Follow-Up Tasks**; **Media & Audio Studio** (`Voiceover Studio`, `Clip Highlight Studio`, `Podcast Producer`), **Polyglot Translator** split-pane workbench, **Verification Studio** fact-check scorecard, and **Phone Dispatch** / **Drive Auto-Fetcher**.
 
 - **2-Way WhatsApp Linked Device Gateway + Telegram & Slack**: Scan the official WhatsApp Web Linked Devices QR right inside SMARAN.AI (`Integrations & Gateways`), auto-reply to **Message Yourself** + `@smaran` / `/task` / `/dots` / `/status` (or all unread 1:1 DMs), and send direct messages — alongside Telegram and Slack Socket Mode bots.
 - **Deep Analytics & Usage Telemetry**: Real-time SQLite audit/chat history, per-model inference throughput (`tokens/sec`) and latency tracking (`route_health.json`), hourly/daily activity charts, workspace asset counts, and server-side date filtering (`All time`, `Year`, `Month`, `Date`).
