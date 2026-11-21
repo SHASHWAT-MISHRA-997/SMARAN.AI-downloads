@@ -1,6 +1,6 @@
 <div align="center">
 
-# SMARAN.AI — Official Downloads (`v1.1.84`)
+# SMARAN.AI — Official Downloads
 
 **Your Free, Private, Local-First AI Assistant for Windows, Android, Linux & VS Code**
 
@@ -10,7 +10,14 @@
 
 ---
 
-## Download `v1.1.84`
+## Download `v1.1.86`
+
+- [Windows installer](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/download/v1.1.86/SMARAN.AI-Setup.exe)
+- [Android APK](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/download/v1.1.86/SMARAN-AI.apk)
+- [Linux Snap for x86-64](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/download/v1.1.86/smaran-ai_1.1.86_amd64.snap)
+- [Windows CLI](https://github.com/SHASHWAT-MISHRA-997/SMARAN.AI-downloads/releases/download/v1.1.86/smaran.exe)
+
+## Store channels and previous release downloads
 
 | Platform | Download | Notes |
 | --- | --- | --- |
